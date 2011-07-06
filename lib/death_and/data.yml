@@ -1,0 +1,37 @@
+states:
+  -
+    name: California
+    abbreviation: CA
+    brackets:
+      -
+        rate: 0.01
+        upper: 7168
+      -
+        rate: 0.02
+        upper: 16994
+      -
+        rate: 0.04
+        upper: 26821
+      -
+        rate: 0.06
+        upper: 37233
+      -
+        rate: 0.08
+        upper: 47055
+      -
+        rate: 0.1
+        upper: 1000000
+      -
+        rate: 0.11
+  -
+    name: North Carolina
+    abbreviation: NC
+    brackets:
+      -
+        rate: 0.06
+        upper: 12750
+      -
+        rate: 0.07
+        upper: 60000
+      -
+        rate: 0.08

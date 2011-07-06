@@ -1,0 +1,15 @@
+== Installation
+
+1. Copypasta the following into a console:
+
+    git clone http://github.com/brymck/death_and
+    cd death_and
+    rake install
+
+2. Run in the same console:
+
+    death_and
+
+== License
+
+death_and is licensed under the MIT License.
